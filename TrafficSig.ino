@@ -1,7 +1,7 @@
 //4 way Traffic Signal Controller
 //By Nikhil Mascarenhas ( nikhil.mascarenhas@gmail.com )
 //Feel free to use, distribute and modify this code.
-//Demo Video: www.youtube.com
+//Demo Video: http://www.youtube.com/watch?v=srhC-1_fXeQ
 //Code is hosted at: https://github.com/nm1291/4-way-traffic-Signal---Intersection-Controller-using-ArduinoUNO 
 
 //4 x 3 matrix rows represents  the traffic signals for the 4 roads
